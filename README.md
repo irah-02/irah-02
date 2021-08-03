@@ -2,7 +2,7 @@
 - 👀 I’m interested in defenitly something
 - 🌱 I’m currently learning definitely something
 - 💞️ I’m looking to collaborate on defenitly something
-- 📫 How to reach me ...
+- 📫 How to reach me ... blindwind02@gmail.com
 
 <!---
 irah-terminal/irah-terminal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
